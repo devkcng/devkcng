@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/devkcng" target="blank"><img src="https://img.shields.io/twitter/follow/devkcng?logo=twitter&style=for-the-badge" alt="devkcng" /></a> </p>
 
-- 🔭 I’m currently working on **HCMC University of Technology and Education (HCMUTE)**
+- 🔭 I’m currently working at **HCMC University of Technology and Education (HCMUTE)**
 
 - 🌱 I’m currently learning **Information Technology at HCMUTE, DS/AI/ML**
 
