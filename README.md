@@ -1,13 +1,13 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 <h1 align="center">Hi 👋, I'm devkcng</h1>
-<h3 align="center">A student at HCMC University of Technology and Education (HCMUTE)</h3>
+<h3 align="center"> A freelancer developer who is interested in Data Science and Artificial Intelligence.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkcng&label=Profile%20views&color=0e75b6&style=flat" alt="devkcng" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devkcng" target="blank"><img src="https://img.shields.io/twitter/follow/devkcng?logo=twitter&style=for-the-badge" alt="devkcng" /></a> </p>
 
-- 🔭 I’m currently working on **HCMUTE**
+- 🔭 I’m currently working on **HCMC University of Technology and Education (HCMUTE)**
 
 - 🌱 I’m currently learning **Information Technology at HCMUTE, DS/AI/ML**
 
