@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **HCMC University of Technology and Education (HCMUTE)**
 
-- 🌱 I’m currently learning **Information Technology at , DS/AI/ML**
+- 🌱 I’m currently learning **Information Technology at HCMUTE and self-learning about DS/AI/ML**
 
 - 💬 Ask me about **Python, C++, AI/ML models, WSL2, Docker**
 
