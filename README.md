@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, C++, AI/ML models, WSL2, Docker**
 
-- 📫 How to reach me **Telegram: @devkcng**
+- 📫 How to reach me **Email: manhcuongkim.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
