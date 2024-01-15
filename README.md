@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkcng&label=Profile%20views&color=0e75b6&style=flat" alt="devkcng" /> </p>
 
 
-
 - 🔭 I’m currently working at **HCMC University of Technology and Education (HCMUTE)**
 
 - 🌱 I’m currently learning **Information Technology at HCMUTE and self-learning about DS/AI/ML**
@@ -19,6 +18,7 @@
 <a href="https://twitter.com/devkcng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkcng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manhcuongkim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manhcuongkim" height="30" width="40" /></a>
 </p>
+
 
 ## Tech Stack 
 ### Languages & Frameworks
@@ -56,6 +56,8 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 <br />
+
+
 
 
 
