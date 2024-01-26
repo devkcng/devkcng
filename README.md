@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkcng&label=Profile%20views&color=0e75b6&style=flat" alt="devkcng" /> </p>
 
+# 💫 About Me:
 
 - 🔭 I’m currently working at **HCMC University of Technology and Education (HCMUTE)**
 
@@ -13,14 +14,14 @@
 
 - 📫 How to reach me **manhcuongkim.work@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/devkcng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkcng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manhcuongkim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manhcuongkim" height="30" width="40" /></a>
 </p>
 
 
-## Tech Stack 
+# 💻 Tech Stack:
 ### Languages & Frameworks
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
