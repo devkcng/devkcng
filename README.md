@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm devkcng</h1>
-<h3 align="center">A developer who's interested in Data Science and Machine Learning</h3>
+<h3 align="center">Data Scientist | AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkcng&label=Profile%20views&color=0e75b6&style=flat" alt="devkcng" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Information Technology at HCMUTE and self-learning about DS/AI/ML**
 
-- 💬 Ask me about **C++, Python, AI/ML Models, Data Science**
+- 💬 Ask me about **C++, Python, AI/ML, Data Science**
 
 - 📫 How to reach me **manhcuongkim.work@gmail.com**
 
