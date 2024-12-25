@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm devkcng</h1>
-<h3 align="center">AI Engineer | Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Manh Cuong Kim </h1>
+<h3 align="center"> Software Developer | AI Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkcng&label=Profile%20views&color=0e75b6&style=flat" alt="devkcng" /> </p>
 
 # 💫 About Me:
